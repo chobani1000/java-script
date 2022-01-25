@@ -25,3 +25,5 @@ console.log(text3)
  text1 = "      Hello World!      ";
  text2 = text1.trim();
 console.log("text2", text2);
+
+let total = 0
