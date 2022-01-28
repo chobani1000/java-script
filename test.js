@@ -11,3 +11,9 @@ for(let i = 0; i < arrayLength; i++) {
 console.log('arrayNumbers', arrayNumbers);
 console.log('reversedList', reversedList);
 let revlist = numberArray.reverse();
+
+
+
+
+
+
